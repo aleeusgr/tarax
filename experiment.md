@@ -17,5 +17,8 @@ Original = Made for Tarax specifically. Go on YouTube, record "Hello, Cardano, A
 
 Every week three posters are chosen and rewarded with ADA and Gimbals.
 
+**Does not have to be original content: reposts from YouTube, Twitter, Medium and wherever are fine** 
+Anything goes, just don't get us banned at reddit!
+
 The method for choosing winners, the reward, and other details will be posted soon.
 
