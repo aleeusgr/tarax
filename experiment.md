@@ -2,7 +2,7 @@
 ### Currently at 0.2
 
 ## How to participate?
-0. Join https://discord.gg/wU4tdF5bmv
+0. Join https://discord.gg/7U37esUB
 1. Join https://www.reddit.com/r/tarax/
 2. Post, repost, comment, vote.
 
