@@ -11,7 +11,7 @@
 2. First original text poster will get 100 GMBL and some ADA
 3. First original tweet reposter will get 100 GMBL and some ADA
 
-Original = Made for Tarax specifically. Got on YouTube, record "Hello, Cardano and Tarax" and you got 1000 Gimbals.
+Original = Made for Tarax specifically. Go on YouTube, record "Hello, Cardano and Tarax, I love you guys you are awesome!" and you got 1000 Gimbals.
 
 ### version 0.2
 
