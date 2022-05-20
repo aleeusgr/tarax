@@ -20,5 +20,10 @@ Every week three posters are chosen and rewarded with ADA and Gimbals.
 **Does not have to be original content: reposts from YouTube, Twitter, Medium and wherever are fine** 
 Anything goes, just don't get us banned at reddit!
 
-The method for choosing winners, the reward, and other details will be posted soon.
+The winners and the rewards:
+Don't expect much ADA, we got 500 for the whole Tarax project. Initial rewards will be in Gimbals and ADA has to go in any transaction.
+
+1. Most comments: ADA and 75 Gimbals
+2. Most upvotes: ADA and 50 Gimbals
+3. Most controverisal: ADA and 75 Gimbals. 
 
