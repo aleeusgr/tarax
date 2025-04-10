@@ -1,10 +1,5 @@
-## Tarax: A model of self-sovereignty in Social Media
+# Tarax 
 
-A system that allows individuals to control the biases in their daily news.
+Imagine a media platform where influencers can share their thoughts and ideas without fear of retribution, while still maintaining the highest standards of professional integrity and content quality. Welcome to Tarax, the decentralized news and media organization that balances anonymity with utility, empowering a new generation of free thinkers to shape the conversation and drive positive change.
 
-An experiment in decentralized governance in free press.
-
-A web service that aggregates news in real time and generates summaries and commentary on what is happening in the world, powered by AI.
-
-A community with the mission to develop a transparent source of information about current world events. The community plans and oversees the development of the system.
-
+https://cardano.ideascale.com/c/cardano/idea/62677
